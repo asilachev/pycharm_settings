@@ -4,19 +4,12 @@
     <property name="created">2016-11-25T18:50:55</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2017-05-13T15:23:47</property>
+    <property name="modified">2017-05-13T18:55:01</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <attributes>
-    <option name="CONSOLE_USER_INPUT">
-      <value>
-        <option name="FOREGROUND" value="7f00" />
-      </value>
-    </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="FONT_TYPE" value="1" />
