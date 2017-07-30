@@ -1,12 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>*.json</mask>
       <mask>*.j</mask>
       <mask>*.[y</mask>
       <mask>*.[</mask>
@@ -26,16 +24,17 @@
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
       <mask>.</mask>
-      <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.py</mask>
       <mask>t</mask>
       <mask>te</mask>
       <mask>tes</mask>
       <mask>test</mask>
       <mask>test_</mask>
       <mask>test_*</mask>
+      <mask>p</mask>
+      <mask>*</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
