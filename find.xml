@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="test*.py" />
     <recentFileMasks>
-      <mask>*.j</mask>
-      <mask>*.[y</mask>
-      <mask>*.[</mask>
-      <mask>*.py=</mask>
       <mask>*.fo</mask>
       <mask>*.f</mask>
       <mask>*.cod</mask>
@@ -35,6 +31,10 @@
       <mask>*</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>t*.py</mask>
+      <mask>te*.py</mask>
+      <mask>tes*.py</mask>
+      <mask>test*.py</mask>
     </recentFileMasks>
   </component>
 </application>
