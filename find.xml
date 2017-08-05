@@ -7,9 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>*.fo</mask>
-      <mask>*.f</mask>
-      <mask>*.cod</mask>
       <mask>*.h</mask>
       <mask>*.ha</mask>
       <mask>*.ham</mask>
@@ -29,13 +26,16 @@
       <mask>test_</mask>
       <mask>test_*</mask>
       <mask>p</mask>
-      <mask>t*.py</mask>
       <mask>te*.py</mask>
       <mask>tes*.py</mask>
       <mask>test*.py</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
+      <mask>task*.py</mask>
+      <mask>tas*.py</mask>
+      <mask>ta*.py</mask>
+      <mask>t*.py</mask>
       <mask>*.py</mask>
     </recentFileMasks>
   </component>
