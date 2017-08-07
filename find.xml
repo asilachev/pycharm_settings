@@ -3,19 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="test*.py" />
     <recentFileMasks>
-      <mask>*.pu</mask>
-      <mask>.</mask>
-      <mask>t</mask>
-      <mask>te</mask>
-      <mask>tes</mask>
-      <mask>test</mask>
-      <mask>test_</mask>
-      <mask>test_*</mask>
       <mask>p</mask>
       <mask>te*.py</mask>
       <mask>tes*.py</mask>
-      <mask>test*.py</mask>
       <mask>task*.py</mask>
       <mask>tas*.py</mask>
       <mask>ta*.py</mask>
@@ -34,6 +26,15 @@
       <mask>*.h</mask>
       <mask>*.ham</mask>
       <mask>*.haml</mask>
+      <mask>t</mask>
+      <mask>te</mask>
+      <mask>tes</mask>
+      <mask>test&amp;</mask>
+      <mask>test</mask>
+      <mask>test*</mask>
+      <mask>test*.</mask>
+      <mask>test*.p</mask>
+      <mask>test*.py</mask>
     </recentFileMasks>
   </component>
 </application>
