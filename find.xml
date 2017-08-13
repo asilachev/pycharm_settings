@@ -1,13 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>p</mask>
-      <mask>te*.py</mask>
-      <mask>tes*.py</mask>
-      <mask>task*.py</mask>
       <mask>tas*.py</mask>
       <mask>ta*.py</mask>
       <mask>t*.py</mask>
@@ -24,7 +22,6 @@
       <mask>*.coffee</mask>
       <mask>*.h</mask>
       <mask>*.ham</mask>
-      <mask>*.haml</mask>
       <mask>t</mask>
       <mask>te</mask>
       <mask>tes</mask>
@@ -34,6 +31,11 @@
       <mask>test*.</mask>
       <mask>test*.p</mask>
       <mask>test*.py</mask>
+      <mask>h</mask>
+      <mask>ham</mask>
+      <mask>haml</mask>
+      <mask>*haml</mask>
+      <mask>*.haml</mask>
     </recentFileMasks>
   </component>
 </application>
