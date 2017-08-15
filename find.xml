@@ -5,23 +5,15 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
       <mask>tas*.py</mask>
       <mask>ta*.py</mask>
       <mask>t*.py</mask>
       <mask>*</mask>
-      <mask>*.ha</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
-      <mask>*.c</mask>
-      <mask>*.co</mask>
-      <mask>*.cof</mask>
-      <mask>*.coff</mask>
-      <mask>*.coffe</mask>
-      <mask>*.coffee</mask>
-      <mask>*.h</mask>
-      <mask>*.ham</mask>
       <mask>t</mask>
       <mask>te</mask>
       <mask>tes</mask>
@@ -36,6 +28,15 @@
       <mask>haml</mask>
       <mask>*haml</mask>
       <mask>*.haml</mask>
+      <mask>*.ham</mask>
+      <mask>*.ha</mask>
+      <mask>*.h</mask>
+      <mask>*.c</mask>
+      <mask>*.co</mask>
+      <mask>*.cof</mask>
+      <mask>*.coff</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
