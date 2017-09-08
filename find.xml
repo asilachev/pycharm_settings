@@ -3,9 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>t*.py</mask>
       <mask>*</mask>
       <mask>t</mask>
       <mask>te</mask>
@@ -20,20 +18,21 @@
       <mask>ham</mask>
       <mask>haml</mask>
       <mask>*haml</mask>
-      <mask>*.co</mask>
-      <mask>*.cof</mask>
-      <mask>*.coff</mask>
-      <mask>*.coffee</mask>
-      <mask>*.coffe</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
-      <mask>*.c</mask>
       <mask>*.haml</mask>
       <mask>*.ham</mask>
       <mask>*.ha</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
+      <mask>*.coo</mask>
+      <mask>*.coffee</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coff</mask>
+      <mask>*.cof</mask>
+      <mask>*.co</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
       <mask>*.py</mask>
     </recentFileMasks>
   </component>
