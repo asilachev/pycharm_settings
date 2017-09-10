@@ -5,13 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>*</mask>
-      <mask>t</mask>
-      <mask>te</mask>
-      <mask>tes</mask>
-      <mask>test&amp;</mask>
-      <mask>test</mask>
-      <mask>test*</mask>
       <mask>test*.</mask>
       <mask>test*.p</mask>
       <mask>test*.py</mask>
@@ -34,6 +27,13 @@
       <mask>*.co</mask>
       <mask>*.c</mask>
       <mask>*.</mask>
+      <mask>test_*.py</mask>
+      <mask>test_.py</mask>
+      <mask>test.py</mask>
+      <mask>tes.py</mask>
+      <mask>te.py</mask>
+      <mask>t.py</mask>
+      <mask>.py</mask>
       <mask>*.py</mask>
     </recentFileMasks>
   </component>
